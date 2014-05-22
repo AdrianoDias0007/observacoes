@@ -1,6 +1,20 @@
-http://biblia.gospelprime.com.br/nvi/numeros/12/
+http://biblia.gospelprime.com.br/nvi/numeros/34/
 
 leitura e audio da biblia 
 
 /////////////////////////////
 aula rbtech finalizado aula 8
+
+//////////////////////////////
+https://gitorious.org/
+
+Hospedagem Git e software de colaboração que você pode instalar-se
+Gitorious.org oferece hospedagem gratuita para projetos de código aberto que usam Git.
+
+Saiba mais sobre Gitorious ou os projetos que hospedam.
+
+//////////////
+http://marciotrindade.com/2009/7/2/configurando-o-git
+http://marklodato.github.io/visual-git-guide/index-en.html
+http://think-like-a-git.net/sections/graphs-and-git/the-reference-reference.html
+/////////////////////
